@@ -1,0 +1,248 @@
+body {
+    padding-top: 50px;
+   
+}
+
+ body {
+        height: 100%;
+         text-align: center;
+        /* The html and body elements cannot have any padding or margin. */
+      }
+
+      /* Wrapper for page content to push down footer */
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        /* Negative indent footer by it's height */
+        margin: 0 auto -60px;
+      }
+
+      /* Set the fixed height of the footer here */
+      #push,
+      #footer {
+        height: 60px;
+      }
+      #footer {
+        background-color: #232323;
+      }
+
+      /* Lastly, apply responsive CSS fixes as necessary */
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+
+
+
+      /* Custom page CSS
+      -------------------------------------------------- */
+      /* Not required for template or sticky footer method. */
+
+      #wrap > .container {
+        padding-top: 60px;
+      }
+      .container .credit {
+        margin: 20px 0;
+      }
+
+      code {
+        font-size: 80%;
+      }
+p.mudar  {
+ color: #c1c6d4;
+ margin-top: 20px;
+}
+//----------------------------------------------
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.radio label, .checkbox label {
+  min-height: 20px;
+  padding-right: 182px;
+  margin-bottom: 0;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+
+.col-xs-12 {
+  width: 100%;
+}
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+  margin-left: 171px;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 200px;
+  padding-left: 20px;
+}
+
+.btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group {
+  margin-left: 10px;
+}
+
+.btn-group, .btn-group-vertical {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.table2 > thead > tr > th, .table2 > tbody > tr > th, .table2 > tfoot > tr > th, .table2 > thead > tr > td, .table2 > tbody > tr > td, .table2 > tfoot > tr > td {
+    padding: 2px;
+    line-height: 1.42857143;
+    vertical-align: inherit;
+    border-top: 1px solid #ddd;
+    text-align: center;
+}
+
+#foto {
+  /* width: 20px; */
+  height: 23px;
+  /* padding-top: 5px; */
+}
+
+//------------------------------
+
+h5, .h5 {
+    font-size: 14px;
+    text-align: center;
+}
+h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+.botao{
+    margin-left: -820px;
+}
+
+.checkbox-inline, .radio-inline {
+    position: relative;
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 0;
+    font-weight: 400;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+#espaco{
+      width: 90px;
+}
+
+#tabela{
+  text-align: center;
+  color: #FFF;
+  background-color: #000;
+}
+#tabela2{
+  text-align: center;
+  color: #000;
+  background-color: #FFF;
+  
+
+}
+.numero{
+    text-decoration: none;
+    background: #2A85B6;
+    text-align: center;
+    padding: 3px 0;
+    display: block;
+    margin: 0 2px;
+    float: left;
+    width: 20px;
+    color: #fff;
+}
+.numero:hover, .numativo, .controle:hover{
+    background: #1B3B54;
+}
+.controle{
+    text-decoration: none;
+    background: #2A85B6;
+    text-align: center;
+    padding: 3px 8px;
+    display: block;
+    margin: 0 3px;
+    float: left;
+    color: #fff;
+}
+
+
+.panel-default {
+opacity: 0.9;
+margin-top:30px;
+}
+.form-group.last { margin-bottom:0px; }
+
+body { 
+  background: url(http://www.dieselmac.com.br/wp-content/uploads/2015/01/background-clean.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 30px;
+    padding-right: 22px;
+    padding-left: 16px;
+}
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+h2, .h2 {
+    font-size: 26px;
+}
+
+.thumbnail:hover{
+  background-color: #CCCCCC;
+}
