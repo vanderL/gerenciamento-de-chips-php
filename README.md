@@ -11,7 +11,7 @@ Fortaleza/CE
 
 **Linkedin:** [https://www.linkedin.com/in/vander-lima](https://www.linkedin.com/in/vander-lima)
 
-**Github:** Paulinhoibti
+**Github:** vanderL
 
 ---
 
